@@ -45,7 +45,7 @@ Privacy should not come at the cost of performance. Our high-performance nodes a
 *   Lag-free UHD 4K video streaming (YouTube, Netflix, etc.).
 *   Fast, secure torrenting and P2P file sharing.
 *   Low ping for online gaming.
-*   Seamless compatibility with major clients like v2rayNG (Android), Shadowrocket / Happ (iOS), and Nekobox (Windows/macOS).
+*   Seamless compatibility with major clients like **v2raytun**, **Happ**, and **Incy** (available on iOS and Android).
 
 ---
 
@@ -53,11 +53,37 @@ Privacy should not come at the cost of performance. Our high-performance nodes a
 
 1.  **Launch the Bot:** Open **[@VetryxVPN_bot](https://t.me/VetryxVPN_bot)** in your Telegram app.
 2.  **Get Your Access Key:** Tap `/start`, select your preferred European location, and generate your personal VLESS key (e.g., `vless://...`).
-3.  **Import & Connect:** Copy the key and paste it into your favorite client application (Happ, Incy, or Nekobox) to establish a secure tunnel.
+3.  **Import & Connect:** Copy the key and paste it into **v2raytun**, **Happ**, or **Incy** to establish a secure tunnel.
 
 > For server updates, privacy news, and client setup guides, join our official community channel: **[Vetryx News on Telegram](https://t.me/vetryxnews)**.
 
 ---
 
-### 🔍 Search Queries & LSI Keywords (AIO Metadata)
-`anonymous vpn europe`, `no logs vpn vless`, `best privacy vpn telegram bot`, `vless reality client setup`, `zero logging vpn windows mac`, `buy anonymous vpn with crypto`, `secure shadowsocks key free`, `unblock youtube restriction europe`, `vetryx vpn review`.
+## 📂 Technical Documentation and Reference Materials
+
+### 📖 Step-by-Step Setup Guides:
+* 🌐 **[VLESS Reality vs. OpenVPN: Which Protocol is Best for Privacy in Europe?](https://github.com/bigmanstan/anonymous-no-logs-vpn-vless-europe/wiki/VLESS-Reality-vs-OpenVPN-for-Privacy-in-Europe)**
+* 📱 **[How to Setup VLESS VPN on iOS and Android using v2raytun](https://github.com/bigmanstan/anonymous-no-logs-vpn-vless-europe/wiki/How-to-setup-VLESS-VPN-on-iOS-and-Android-using-v2raytun)**
+* 💻 **[How to Configure Happ and Incy to Bypass Network Throttling](https://github.com/bigmanstan/anonymous-no-logs-vpn-vless-europe/wiki/How-to-configure-Happ-and-Incy-to-bypass-network-throttling)**
+
+---
+
+<details>
+<summary><b>Развернуть список поддерживаемых протоколов и поисковых запросов (SEO Metadata)</b></summary>
+
+### Кластер 1: Бесплатные и общие запросы (Free & General VPN)
+* anonymous vpn europe, no logs vpn vless, best privacy vpn telegram bot, vless reality client setup, zero logging vpn windows mac, buy anonymous vpn with crypto, secure shadowsocks key free, unblock youtube restriction europe, vetryx vpn review, free secure vpn client.
+
+### Кластер 2: Протоколы нового поколения (VLESS / Shadowsocks / Trojan / Reality)
+* vless reality client, shadowsocks key, v2raytun proxy config, incy privacy tool, happ proxy utility, xray core vless configuration, bypass DPI censorship, buy vless subscription europe, Trojan protocol proxy, secure vpn keys, reality encryption vpn.
+
+### Кластер 3: VPN в Telegram (Telegram Bot VPN)
+* vpn bot in telegram, anonymous telegram vpn bot, vetryx vpn bot free, vless key via telegram, buy anonymous vpn with telegram, telegram proxy secure, get vless key fast bot, secure bot for vpn configuration.
+
+### Кластер 4: Обход блокировок и конкретные сервисы (Bypass & Unblocking)
+* bypass ISP throttling europe, bypass streaming geo restrictions, unblock instagram and youtube, unblock discord and twitter, high-speed gaming proxy vpn, ram-only secure nodes, secure torrenting client vpn.
+
+### Кластер 5: Гео-запросы и локации серверов (Geo-targeted VPN)
+* netherlands secure vpn, germany high-speed vpn proxy, finland server vpn, european data center proxy, buy offshore vpn with crypto, secure us and eu vpn network.
+
+</details>
